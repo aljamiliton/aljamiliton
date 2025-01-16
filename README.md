@@ -1,17 +1,12 @@
-![logo](https://github.com/aljamiliton/Jamil-Khan/blob/main/3.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Jamil</h1>
-<h3 align="center">A passionate Flutter and Python Developer</h3>
-<img align ="center"alt=""coding" width="400"src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2Fua7vVw9awZKWwLSYpW%2Fgiphy.gif%3Fcid%3D790b7611lczo3lu8qo1rf6awkjsfla6kqci1rjqjefawl8wx%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW&docid=okTX7thChwcr7M&tbnid=rhc6NSVZZKTU3M&vet=12ahUKEwj_6M_do_qKAxUHSaQEHccFIDcQM3oECGwQAA..i&w=480&h=480&hcb=2&ved=2ahUKEwj_6M_do_qKAxUHSaQEHccFIDcQM3oECGwQAA">
+<h3 align="center">A passionate flutter and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljamiliton&label=Profile%20views&color=0e75b6&style=flat" alt="aljamiliton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aljamiliton" alt="aljamiliton" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jamil khan" target="blank"><img src="https://img.shields.io/twitter/follow/jamil khan?logo=twitter&style=for-the-badge" alt="jamil khan" /></a> </p>
-
 - 🔭 I’m currently working on **Python and AI chatbot**
 
-- 🌱 I’m currently learning **Flutter, Python, Framer, Figma, Webflow**
+- 🌱 I’m currently learning **Flutter,Python,Framer,Figma,Webflow**
 
 - 👯 I’m looking to collaborate on **Flutter Chat App**
 
@@ -25,15 +20,10 @@
 
 - ⚡ Fun fact **I love to work with my team**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@nsuuqbnc-the-typescripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nsuuqbnc-the-typescripter" height="30" width="40" /></a>
 <a href="https://dev.to/jamil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jamil khan" height="30" width="40" /></a>
-<a href="https://twitter.com/jamil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamil khan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamil khan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jamil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jamil khan" height="30" width="40" /></a>
 <a href="https://instagram.com/2006.it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2006.it" height="30" width="40" /></a>
@@ -46,8 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/jamilkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/jamilkhan" /></a><a href="https://ko-fi.com/Jamil Khan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Jamil Khan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljamiliton&show_icons=true&locale=en&layout=compact" alt="aljamiliton" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aljamiliton&show_icons=true&locale=en" alt="aljamiliton" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljamiliton&show_icons=true&locale=en&layout=compact" alt="aljamiliton" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aljamiliton&" alt="aljamiliton" /></p>
