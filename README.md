@@ -1,4 +1,4 @@
-![logo](https://github.com/aljamiliton/aljamiliton/blob/main/Python%20%20Framer%20%20Javascript%20(1).png)
+![logo](https://github.com/aljamiliton/aljamiliton/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jamil</h1>
 <h3 align="center">A passionate flutter and Python Developer</h3>
 
